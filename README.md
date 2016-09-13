@@ -8,5 +8,8 @@ The image basically contains:
 
 This container allows you to access the profiling data stored by xhprof in a mongodb database, through a web interface.
 
+# Docker-compose
 
-See the [Docker Hub page](https://hub.docker.com/r/actency/docker-xhgui/) for the full readme on how to use this and for other information.
+Please check our complete docker-compose.yml example at: https://github.com/Actency/docker-apache-php
+
+[Docker Hub page](https://hub.docker.com/r/actency/docker-xhgui/)
